@@ -4,7 +4,7 @@ Sistema operativo Windows 10:
 
 [![Mira el video](https://img.youtube.com/vi/H_ze1cBVlms/1.jpg)](https://youtu.be/H_ze1cBVlms)
 
-[![Mira el video](https://i1.ytimg.com/vi/H_ze1cBVlms/maxres1.jpg)](https://youtu.be/H_ze1cBVlms)
+[![Mira el video](https://i1.ytimg.com/vi/H_ze1cBVlms/hqdefault.jpg)](https://youtu.be/H_ze1cBVlms)
 
 [![Mira el video](https://share.gifyoutube.com/H_ze1cBVlms.gif)](https://youtu.be/H_ze1cBVlms)
 
