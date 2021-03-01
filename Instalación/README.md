@@ -2,16 +2,10 @@
 
 Sistema operativo Windows 10:
 
-[![Mira el video](http://i3.ytimg.com/vi/H_ze1cBVlms/1.jpg)](https://youtu.be/H_ze1cBVlms)
-
 [![Mira el video](https://i1.ytimg.com/vi/H_ze1cBVlms/hqdefault.jpg)](https://youtu.be/H_ze1cBVlms)
-
-[![Mira el video](https://share.gifyoutube.com/H_ze1cBVlms.gif)](https://youtu.be/H_ze1cBVlms)
-
 
 Sistema operativo MacOS X (ejemplo con Mojave):
 
-[![Mira el video](https://img.youtube.com/vi/3wS_Guzgr0w/1.jpg)](https://youtu.be/3wS_Guzgr0w)
-
+[![Mira el video](https://i1.ytimg.com/vi/3wS_Guzgr0w/hqdefault.jpg)](https://youtu.be/3wS_Guzgr0w)
 
 
