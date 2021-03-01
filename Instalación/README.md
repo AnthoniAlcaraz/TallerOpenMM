@@ -2,7 +2,7 @@
 
 Sistema operativo Windows 10:
 
-[![Mira el video](https://img.youtube.com/vi/H_ze1cBVlms/1.jpg)](https://youtu.be/H_ze1cBVlms)
+[![Mira el video](http://i3.ytimg.com/vi/H_ze1cBVlms/1.jpg)](https://youtu.be/H_ze1cBVlms)
 
 [![Mira el video](https://i1.ytimg.com/vi/H_ze1cBVlms/hqdefault.jpg)](https://youtu.be/H_ze1cBVlms)
 
