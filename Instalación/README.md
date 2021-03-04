@@ -1,4 +1,4 @@
-# Tutoriales para instalación
+# Tutoriales para instalación de Anaconda, OpenMM y OpenMM tools
 
 
 En los siguientes enlaces encontraras diferentes videos que te guiarán para instalar OpenMM en tres sistemas operativos diferentes. En cada sistema operativo
@@ -16,4 +16,6 @@ Sistema operativo Linux (ejemplo con Ubuntu 20):
 
 [![Mira el video](https://i1.ytimg.com/vi/dlSdfcKcpn0/hqdefault.jpg)](https://youtu.be/dlSdfcKcpn0)
 
+# Tutorial para instalación de VMD (Visual Molecular Dynamics)
 
+Esta pendiente subir los videos, en los siguientes días pueden checarlo.
