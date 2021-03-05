@@ -18,8 +18,14 @@ se instala Anaconda con la versión de 64-Bit. Ese procedimiento, también funci
 
 # Tutorial para instalación de VMD (Visual Molecular Dynamics)
 
-## VMD en Windows 10
+VMD es un programa que usaremos para visualizar las trayectorias calculadas con OpenMM. También se utiliza para hacer análisis a partir de las coordenadas atómicas como funciones de distribución radial, el desplazamiento cuadrático medio, entre otros.
+
+## VMD en Windows 10:
 
 [![Mira el video](https://i1.ytimg.com/vi/mjOaj40DhJc/hqdefault.jpg)](https://youtu.be/mjOaj40DhJc)
 
-Esta pendiente subir los videos para linux y MacOS X, en los siguientes días pueden checarlo.
+## VMD en Linux (Ubuntu 20):
+
+[![Mira el video](https://i1.ytimg.com/vi/ByxFomrHU08/hqdefault.jpg)](https://youtu.be/ByxFomrHU08)
+
+Esta pendiente subir el video para MacOS X, en los siguientes días pueden checarlo.
