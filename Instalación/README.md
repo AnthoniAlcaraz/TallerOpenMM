@@ -28,4 +28,7 @@ VMD es un programa que usaremos para visualizar las trayectorias calculadas con 
 
 [![Mira el video](https://i1.ytimg.com/vi/ByxFomrHU08/hqdefault.jpg)](https://youtu.be/ByxFomrHU08)
 
-Esta pendiente subir el video para MacOS X, en los siguientes días pueden checarlo.
+## VMD en MacOS X (Mojave):
+
+[![Mira el video](https://i1.ytimg.com/vi/BcASmzNYztw/hqdefault.jpg)](https://youtu.be/BcASmzNYztw)
+
