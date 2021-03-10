@@ -1,0 +1,26 @@
+<ForceField>
+ <AtomTypes>
+ <Reference> On Atomistic Models for Molecular Oxygen,Matti Javanainen, Ilpo Vattulainen, Luca Monticelli DOI: 10.1021/acs.jpcb.6b11183 </Reference>
+  <Type name="o2-o2-O" class="O" element="O" mass="15.99943"/>
+  <Type name="o2-o2-M" class="M" mass="0"/>
+ </AtomTypes>
+ <Residues>
+  <Residue name="Oxy">
+   <Atom name="O1" type="o2-o2-O"/>
+   <Atom name="O2" type="o2-o2-O"/>
+   <Atom name="M" type="o2-o2-M"/>
+   <VirtualSite type="average2" siteName="M" atomName1="O1" atomName2="O2" weight1="0.5" weight2="0.5"/>
+   <Bond atomName1="O1" atomName2="O2"/>
+  </Residue>
+ </Residues>
+ <HarmonicBondForce>
+  <Bond class1="O" class2="O" length="0.123" k="251208.0"/>
+ </HarmonicBondForce>
+ <NonbondedForce coulomb14scale="0.833333" lj14scale="0.5">
+  <Atom type="o2-o2-O" charge="-0.1114" sigma="3.044e-01" epsilon="0.4469" />
+  <Atom type="o2-o2-M" charge="0.2228" sigma="0" epsilon="0" />
+ </NonbondedForce>
+ <Residue name="Oxy">
+  <Bond from="O1" to="O2"/>
+ </Residue>
+</ForceField>

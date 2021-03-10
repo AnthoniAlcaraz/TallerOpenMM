@@ -1,0 +1,3 @@
+# Archivos PDB
+
+Los archivos PDB contienen la topología del sistema a simular, por ejemplo, átomos, enlaces y coordenadas. Es un formato diseñado para almacenar la estructura tridimensional de las moléculas y tienen un formato específico que debe respetar cada columna de espacios (en total 80 espacios por línea). Aprende del formato PDB [aquí](http://www.wwpdb.org/documentation/file-format-content/format33/sect9.html#ATOM).

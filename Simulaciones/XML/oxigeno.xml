@@ -1,0 +1,15 @@
+<ForceField>
+	<AtomTypes>
+		<Type name="o2-o2-O" class="O" element="O" mass="15.99943" />
+	</AtomTypes>
+	<Residues>
+		<Residue name="Oxy">
+			<Atom name="O1" type="o2-o2-O" />
+			<Atom name="O2" type="o2-o2-O" />
+			<Bond atomName1="O1" atomName2="O2" />
+		</Residue>
+	</Residues>
+	<Residue name="Oxy">
+		<Bond from="O1" to="O2" />
+	</Residue>
+</ForceField>
