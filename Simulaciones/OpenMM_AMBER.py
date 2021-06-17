@@ -22,7 +22,7 @@ intervaloBarost = 25  # frecuencia de activacion del barostato
 stepImp = 50  # frecuencia de impresion (adimensional)
 pasosTotales = 1000  # este valor por stepImp por dt da la longitud de la trayectoria
 VelocityVerlet = False  # Solo para NVE ponerlo en True
-
+####
 system = prmtop.createSystem(
     nonbondedMethod=PME, nonbondedCutoff=cutoff * nanometer, constraints=None
 )
@@ -54,8 +54,8 @@ integrator.setConstraintTolerance(1e-8)
 platform = Platform.getPlatformByName("OpenCL")
 properties = {"OpenCLPrecision": "mixed"}
 
-simulation = Simulation(prmtop.topology, system, integrator)
-# simulation = Simulation(prmtop.topology, system, integrator, platform, properties)
+# simulation = Simulation(prmtop.topology, system, integrator)
+simulation = Simulation(prmtop.topology, system, integrator, platform, properties)
 simulation.context.setPositions(inpcrd.positions)
 simulation.context.setVelocitiesToTemperature(T * kelvin)
 
