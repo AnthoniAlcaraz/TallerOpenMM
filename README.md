@@ -8,3 +8,5 @@ operativos como Linux, MacOS X y Windows 10. También encontrarás algunos enlac
 En la carpeta Simulaciones encontrarás los scripts de python que usaremos durante el taller. 
 
 [Google Colab](https://colab.research.google.com/drive/1dB-cwEVdUt0Fs49ZJ-q_p2NKjzmZv9Qz?usp=sharing)
+
+[Google Colab AMOEBA](https://colab.research.google.com/drive/1C6_9SD5Zw6wxrT8pjfufh7wbgy2TM8rG?usp=sharing)
